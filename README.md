@@ -16,7 +16,7 @@ Sebagai seorang data analyst, untuk mengenali suatu pola tindakan kriminal dari 
 
 ## Data Understanding and Cleaning
 1. Menghapus Data Duplikat
-2. Menangani Missing Values SHOOTING, UCR_PART, DISTRICT, REPORTING_AREA, STREET, dan Location
+2. Menangani Missing Values SHOOTING, UCR_PART, DISTRICT, REPORTING_AREA, STREET, Lat dan Long
 3. Cek Outlier
 
 ## Data Yang Sudah Bersih
